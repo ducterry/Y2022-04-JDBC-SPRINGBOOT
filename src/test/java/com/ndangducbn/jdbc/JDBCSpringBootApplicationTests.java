@@ -1,4 +1,4 @@
-package com.ndangducbn.startspringboot;
+package com.ndangducbn.jdbc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
